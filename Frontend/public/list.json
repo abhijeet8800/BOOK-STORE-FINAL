@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Lorem iPsum That shit thing",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1721297838~exp=1721301438~hmac=81258ddbe41d09f162e1a4abec553ce1f6629e3e4260c3359588fc5e28e49d29&w=1060"
+  },
+  {
+    "id": 2,
+    "name": "Comedy Book",
+    "title": "Lorem iPsum That shit thing",
+    "price": 100,
+    "category": "Comedy",
+    "image": "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1721297838~exp=1721301438~hmac=81258ddbe41d09f162e1a4abec553ce1f6629e3e4260c3359588fc5e28e49d29&w=1060"
+  },
+  {
+    "id": 3,
+    "name": "Story Book",
+    "title": "Lorem iPsum That shit thing",
+    "price": 59,
+    "category": "Story Premium",
+    "image": "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1721297838~exp=1721301438~hmac=81258ddbe41d09f162e1a4abec553ce1f6629e3e4260c3359588fc5e28e49d29&w=1060"
+  },
+  {
+    "id": 4,
+    "name": "Dream Book",
+    "title": "Lorem iPsum That shit thing",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1721297838~exp=1721301438~hmac=81258ddbe41d09f162e1a4abec553ce1f6629e3e4260c3359588fc5e28e49d29&w=1060"
+  },
+  {
+    "id": 5,
+    "name": "Horror Book",
+    "title": "Lorem iPsum That shit thing",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1721297838~exp=1721301438~hmac=81258ddbe41d09f162e1a4abec553ce1f6629e3e4260c3359588fc5e28e49d29&w=1060"
+  },
+  {
+    "id": 6,
+    "name": "Comedy Book",
+    "title": "Lorem iPsum That shit thing",
+    "price": 609,
+    "category": "Comedy Premium",
+    "image": "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1721297838~exp=1721301438~hmac=81258ddbe41d09f162e1a4abec553ce1f6629e3e4260c3359588fc5e28e49d29&w=1060"
+  },
+  {
+    "id": 7,
+    "name": "Entertainment Book",
+    "title": "Lorem iPsum That shit thing",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1721297838~exp=1721301438~hmac=81258ddbe41d09f162e1a4abec553ce1f6629e3e4260c3359588fc5e28e49d29&w=1060"
+  },
+  {
+    "id": 8,
+    "name": "Story Book",
+    "title": "Lorem iPsum That shit thing",
+    "price": 69,
+    "category": "Story Premium",
+    "image": "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1721297838~exp=1721301438~hmac=81258ddbe41d09f162e1a4abec553ce1f6629e3e4260c3359588fc5e28e49d29&w=1060"
+  },
+  {
+    "id": 9,
+    "name": "Comedy Book",
+    "title": "Lorem iPsum That shit thing",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1721297838~exp=1721301438~hmac=81258ddbe41d09f162e1a4abec553ce1f6629e3e4260c3359588fc5e28e49d29&w=1060"
+  },
+  {
+    "id": 10,
+    "name": "Dream Book",
+    "title": "Lorem iPsum That shit thing",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1721297838~exp=1721301438~hmac=81258ddbe41d09f162e1a4abec553ce1f6629e3e4260c3359588fc5e28e49d29&w=1060"
+  }
+]
